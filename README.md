@@ -1,3 +1,3 @@
 ﻿# InventoryManager
 
-Planed stack: Java, GraphQL, React.js
+Planned stack: Java, GraphQL, React.js
